@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marvel-heroes/static/css/main.4b4d7db4.css",
+    "main.js": "/marvel-heroes/static/js/main.c147b260.js",
+    "static/js/787.c81e77b4.chunk.js": "/marvel-heroes/static/js/787.c81e77b4.chunk.js",
+    "index.html": "/marvel-heroes/index.html",
+    "main.4b4d7db4.css.map": "/marvel-heroes/static/css/main.4b4d7db4.css.map",
+    "main.c147b260.js.map": "/marvel-heroes/static/js/main.c147b260.js.map",
+    "787.c81e77b4.chunk.js.map": "/marvel-heroes/static/js/787.c81e77b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4d7db4.css",
+    "static/js/main.c147b260.js"
+  ]
+}
